@@ -15,7 +15,7 @@ This app is for demonstration purposes only and should not be used for real-worl
 
 ## Local Installation
 
-If you prefer to run PhaseFlux locally, you have two options:
+To run PhaseFlux locally, you have two options:
 
 ### Option 1: Using Docker (Recommended)
 
